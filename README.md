@@ -1,10 +1,10 @@
 # rubik-cube
 AI LVS project
 Members:
-1.
-2.
-3.
-4.
+1.Mada Bakari Wadinga - 211103011
+2.Evans Akoma - 211103030
+3.Vandi Joseph - 
+4.Ayomide Ayodele - 20222226
 
 Instruction on running code;
 1st; enter "cd sencil/rubik-cube/rubiks_solver"
