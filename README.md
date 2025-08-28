@@ -11,6 +11,7 @@ Members:
 4.Ayomide Ayodele - 20222226
 
 Instruction on running code;
+
 1st; enter "cd sencil/rubik-cube/rubiks_solver"
 
 2nd; enter "pip install gymnasium"
